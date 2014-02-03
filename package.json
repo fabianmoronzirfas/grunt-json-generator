@@ -3,8 +3,13 @@
   "version": "0.0.1",
   "description": "generate json objects from layout",
   "main": "Gruntfile.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fabiantheblind/grunt-json-generator.git"
   },
   "keywords": [
     "grunt",
